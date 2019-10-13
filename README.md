@@ -4,4 +4,4 @@ Lab: #7<br>
 Course: Java I<br>
 Course Number: CSCI 2467<br>
 Professor: Barry Mesa<br>
-This project includes source files for a rock, paper, scissors, lizard, and spock game as well as a Junit class that tests the code.
+This project includes source files for a rock, paper, scissors, lizard, and spock game as well as a Junit class that tests the code. In addition, the source files include documentation comments for calirty of code.
