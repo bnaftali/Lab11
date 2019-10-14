@@ -1,14 +1,17 @@
 package edu.cscc;
 import java.util.*;
 /**
- * Main class for the rock, paper, scissors, lizard, spock game
+ * Main class for the rock, paper, scissors, lizard, and spock game
  * @author Benyamin Naftali
  * @version 1.0
  */
 public class Main {
 
     private static Scanner input = new Scanner(System.in);
-
+    /**
+     * This is the main method that executes the game and is part of the Main class
+     * @param args an array of String type that holds the String lines inside the main method
+     */
     public static void main(String[] args) {
         String h_pick;
         String c_pick;
